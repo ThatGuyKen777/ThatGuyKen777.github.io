@@ -1,13 +1,42 @@
 h1 {
   font-size: 100px;
-  padding: 50px 50px;
-  color: blue;
-  background-color: orange;
+  
   font-weight: 40px;
 }
 h2 {
+  font-size: 100px;
   
+  font-weight: 40px;
 }
 .portfolio {
-  background-color: blue;
+  background-color: lightblue;
+  
+  padding: 50px 50px;
+  
+  opacity: 15%;
+}
+.about-me {
+  background-color: lightgreen;
+  
+  padding: 50px 50px;
+  
+  opacity: 15%;
+}
+.intro {
+  opacity: 30%
+    
+  padding: 50px 50px;
+  
+  background-color: lightyellow;
+  
+}
+body {
+  background-image: url ("https://cdn.pixabay.com/photo/2018/01/26/18/21/matrix-3109378_960_720.jpg
+")
+  font-family: Helvetica;
+  
+  font-color: white;
+}
+p {
+  font-size: 24px
 }
