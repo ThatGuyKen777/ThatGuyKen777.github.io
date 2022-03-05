@@ -2,41 +2,61 @@ h1 {
   font-size: 100px;
   
   font-weight: 40px;
+  
+  font-family: Helvetica;
 }
 h2 {
   font-size: 100px;
   
   font-weight: 40px;
+  
+  font-family: Helvetica;
 }
 .portfolio {
-  background-color: lightblue;
+  font-color: gray;
   
-  padding: 50px 50px;
+  padding: 25px 25px;
   
-  opacity: 15%;
 }
 .about-me {
-  background-color: lightgreen;
+  font-color: gray;
   
-  padding: 50px 50px;
+  padding: 25px 25px;
   
-  opacity: 15%;
 }
 .intro {
-  opacity: 30%
+  font-color: gray;
     
-  padding: 50px 50px;
-  
-  background-color: lightyellow;
+  padding: 25px 25px;
   
 }
-body {
-  background-image: url ("https://cdn.pixabay.com/photo/2018/01/26/18/21/matrix-3109378_960_720.jpg
-")
-  font-family: Helvetica;
+html {
+  background-image: url ("https://raw.githubusercontent.com/ThatGuyKen777/ThatGuyKen777.github.io/main/matrix-3109378__340-background.jpeg") no repeat center center fixed
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+  background-size: cover;
+    
   
-  font-color: white;
+  
+  
 }
 p {
   font-size: 24px
+}
+.cat-pic {
+  height: 25%;
+  width: 25%;
+}
+.mewifkid {
+  height: 25%;
+  width: 25%;
+}
+.meshaw {
+  height: 25%;
+  width: 25%;
+}
+.kidwif {
+  height: 25%;
+  width: 25%;
 }
