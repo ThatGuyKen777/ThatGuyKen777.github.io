@@ -34,11 +34,21 @@ h2 {
   
 }
 #background {
-  height: 100%;
-  width: 100%;
-  align: center;
-  z-index: 1;
-  background-image: url ("https://raw.githubusercontent.com/ThatGuyKen777/ThatGuyKen777.github.io/main/matrix-3109378__340-background.jpeg");
+  position: fixed;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+}
+#background img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  min-width: 100%;
+  min-height: 100%;
 }
 p {
   font-size: 32px
