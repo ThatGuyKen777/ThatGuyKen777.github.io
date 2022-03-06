@@ -13,28 +13,26 @@ h2 {
   font-family: Helvetica;
 }
 .portfolio {
-  font-color: gray;
+  font-color: grey;
   
   padding: 25px 25px;
   
 }
 .about-me {
-  font-color: gray;
+  font-color: grey;
   
   padding: 25px 25px;
   
 }
 .intro {
-  font-color: gray;
+  font-color: grey;
     
   padding: 25px 25px;
   
 }
-html {
+body {
   background-image: url ("https://raw.githubusercontent.com/ThatGuyKen777/ThatGuyKen777.github.io/main/matrix-3109378__340-background.jpeg") no repeat center center fixed
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+ 
   background-size: cover;
     
   
@@ -42,21 +40,21 @@ html {
   
 }
 p {
-  font-size: 24px
+  font-size: 32px
 }
 .cat-pic {
-  height: 25%;
-  width: 25%;
+  height: 100px;
+  width: 100px;
 }
 .mewifkid {
-  height: 25%;
-  width: 25%;
+  height: 100px;
+  width: 100px;
 }
 .meshaw {
-  height: 25%;
-  width: 25%;
+  height: 100px;
+  width: 100px;
 }
 .kidwif {
-  height: 25%;
-  width: 25%;
+  height: 100px;
+  width: 100px;
 }
