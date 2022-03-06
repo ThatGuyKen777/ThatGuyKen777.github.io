@@ -57,24 +57,36 @@ p {
 .cat-pic {
   max-height: 200px;
   max-width: 200px;
+  min-height: 100px;
+  min-width: 100px;
 }
 .mewifkid {
   max-height: 200px;
   max-width: 200px;
+  min-height: 100px;
+  min-width: 100px;
 }
 .meshaw {
   max-height: 200px;
   max-width: 200px;
+  min-height: 100px;
+  min-width: 100px;
 }
 .kidwif {
   max-height: 200px;
   max-width: 200px;
+  min-height: 100px;
+  min-width: 100px;
 }
 .weldgif {
   max-height: 200px;
   max-width: 200px;
+  min-height: 100px;
+  min-width: 100px;
 }
 .meconstructpic {
   max-height: 200px;
   max-width: 200px;
+  min-height: 100px;
+  min-width: 100px;
 }
