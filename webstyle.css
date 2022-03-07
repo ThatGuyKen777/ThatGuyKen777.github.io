@@ -13,25 +13,31 @@ h2 {
   font-family: Helvetica;
 }
 .portfolio {
-  font-color: lightred;
+  color: green;
   
   padding: 25px 25px;
   
   position: relative;
+  
+  background-color: white;
 }
 .about-me {
-  font-color: lightred;
+  color: green;
   
   padding: 25px 25px;
   
   position: relative;
+  
+  background-color: white;
 }
 .intro {
-  font-color: lightred;
+  color: green;
     
   padding: 25px 25px;
   
   position: relative;
+  
+  background-color: white;
 }
 #background {
   position: fixed;
@@ -55,48 +61,36 @@ p {
   font-size: 32px
 }
 #cat-pic {
-  max-height: 200px;
-  max-width: 200px;
   min-height: 100px;
   min-width: 100px;
   height: 150px;
   width: 150px;
 }
 #mewifkid {
-  max-height: 200px;
-  max-width: 200px;
   min-height: 100px;
   min-width: 100px;
   height: 150px;
   width: 150px;
 }
 #meshaw {
-  max-height: 200px;
-  max-width: 200px;
   min-height: 100px;
   min-width: 100px;
   height: 150px;
   width: 150px;
 }
 #kidwif {
-  max-height: 200px;
-  max-width: 200px;
   min-height: 100px;
   min-width: 100px;
   height: 150px;
   width: 150px;
 }
 #weldgif {
-  max-height: 200px;
-  max-width: 200px;
   min-height: 100px;
   min-width: 100px;
   height: 150px;
   width: 150px;
 }
 #meconstructpic {
-  max-height: 200px;
-  max-width: 200px;
   min-height: 100px;
   min-width: 100px;
   height: 150px;
