@@ -1,39 +1,37 @@
 h1 {
   font-size: 100px;
-  
   font-weight: bold;
-  
   font-family: Helvetica;
-  
   background-color: white;
-  
   position: relative;
 }
 h2 {
   font-size: 100px;
-  
   font-weight: bold;
-  
   font-family: Helvetica;
-  
   background-color: white;
-  
   position: relative;
+}
+footer {
+  color: green;
+  background=color: white;
+  position: relative;
+  z-index: 2;
 }
 .portfolio {
   color: green;
-  
   position: relative;
+  z-index: 2;
 }
 .about-me {
   color: green;
-  
   position: relative;
+  z-index: 2;
 }
 .intro {
   color: green;
-  
   position: relative;
+  z-index: 2;
 }
 #background {
   position: fixed;
@@ -55,8 +53,8 @@ h2 {
 }
 p {
   font-size: 32px;
-  
   background-color: white;
+  color: green;
 }
 #cat-pic {
   min-height: 100px;
