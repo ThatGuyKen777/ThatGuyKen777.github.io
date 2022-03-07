@@ -6,6 +6,8 @@ h1 {
   font-family: Helvetica;
   
   background-color: white;
+  
+  position: relative;
 }
 h2 {
   font-size: 100px;
@@ -15,6 +17,8 @@ h2 {
   font-family: Helvetica;
   
   background-color: white;
+  
+  position: relative;
 }
 .portfolio {
   color: green;
@@ -51,8 +55,8 @@ h2 {
   right: 0;
   bottom: 0;
   margin: auto;
-  min-width: 25%;
-  min-height: 25%;
+  min-width: 50%;
+  min-height: 50%;
   z-index: 1;
 }
 p {
@@ -65,34 +69,40 @@ p {
   min-width: 100px;
   height: 150px;
   width: 150px;
+  position: relative;
 }
 #mewifkid {
   min-height: 100px;
   min-width: 100px;
   height: 150px;
   width: 150px;
+  position: relative;
 }
 #meshaw {
   min-height: 100px;
   min-width: 100px;
   height: 150px;
   width: 150px;
+  position: relative;
 }
 #kidwif {
   min-height: 100px;
   min-width: 100px;
   height: 150px;
   width: 150px;
+  position: relative;
 }
 #weldgif {
   min-height: 100px;
   min-width: 100px;
   height: 150px;
   width: 150px;
+  position: relative;
 }
 #meconstructpic {
   min-height: 100px;
   min-width: 100px;
   height: 150px;
   width: 150px;
+  position: relative;
 }
